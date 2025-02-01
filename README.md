@@ -1,7 +1,6 @@
-## Hi there 👋
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myunwoo&show_icons=true&theme=default)
 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://simpleicons.org/icons/velog.svg?style=flat&logo=appveyot&logoColor=#20C997"/></a>
 
 **Myunwoo/Myunwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
